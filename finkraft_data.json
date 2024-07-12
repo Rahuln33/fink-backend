@@ -1,0 +1,214 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    }
+  ],
+  "company_details": {
+    "company_name": "FinKraft AI",
+    "company_description": "FinKraft AI specializes in crafting reliable automated solutions to simplify complex business processes.",
+    "location": "122,1st Floor, Above Ayu Health 17th Main, 19th B Cross Rd, opp. HSR Club, Sector 3, HSR Layout, Bengaluru, Karnataka 560102",
+    "products_and_services": [
+      {
+        "services_name": "Robotic Process Automation (RPA) System",
+        "description": "Automates information extraction, data reconciliation, and real-time dashboard creation."
+      },
+      {
+        "services_name": "GST Credit on Travel Expense Tool",
+        "description": "Automates GST credit calculations for corporate travel expenses."
+      },
+      {
+        "services_name": "Data Analytics and Visualization",
+        "description": "Provides insights through data-driven decision-making tools."
+      }
+    ],
+    "contact_information": {
+      "email": "contact@finkraft.ai",
+      "phone": "+91-22-49737077",
+      "website": "https://finkraft.ai",
+      "linkedin": "linkedin.com/company/finkraft",
+      "address": {
+        "street": "HSR Layout",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "country": "India"
+      }
+    },
+    "faqs": [
+      {
+        "question": "What does FinKraft AI do?",
+        "answer": "FinKraft AI provides automated solutions for simplifying business processes."
+      },
+      {
+        "question": "How can I contact FinKraft AI?",
+        "answer": "You can contact us via email at contact@finkraft.ai or visit our website at https://finkraft.ai."
+      },
+      {
+        "question": "What are the main products of FinKraft AI?",
+        "answer": "Our main products include a Robotic Process Automation system, GST credit on travel expense tool, and data analytics solutions."
+      }
+    ],
+    "careers": {
+      "doing": "Finkraft helps enterprises achieve invoice data extraction & validation, and GST input claim compliances at scale",
+      "employees": "11-50 employees",
+      "location": "Bengaluru, Karnataka",
+      "followers": "27K followers",
+      "employee_range": "11-50 employees",
+      "current_openings": [
+        {
+          "title": "Data Analyst",
+          "location": "Bengaluru, Karnataka,India",
+          "description": "Analyze data and derive actionable insights."
+        },
+        {
+          "title": "Software Developer",
+          "location": "Bengaluru, Karnataka,India",
+          "description": "Develop scalable solutions for automated business processes."
+        }
+      ],
+      "company_culture": "At FinKraft AI, we foster a culture of innovation and collaboration, aiming to make a difference through technology."
+    },
+    "events": [
+      {
+        "events_name": "Tech Innovation Summit 2024",
+        "date": "August 10-12, 2024",
+        "location": "Bengaluru, Karnataka"
+      },
+      {
+        "events_name": "AI in Business Webinar",
+        "date": "September 5, 2024",
+        "location": "Online"
+      }
+    ],
+    "feedback_and_surveys": {
+      "feedback_prompt": "We value your feedback! Please share your thoughts on how we can improve our services.",
+      "customer_satisfaction": "Customer satisfaction is important to us. Help us serve you better!"
+    },
+    "integrations": {
+      "api_integrations": "Our chatbot integrates with backend systems for real-time data retrieval and updates.",
+      "database_interaction": "Handle user queries securely with access to our backend databases."
+    },
+    "personalization_and_contextual_awareness": {
+      "user_preferences": "Remember user preferences for personalized interactions.",
+      "contextual_awareness": "Understand conversation context to provide relevant information."
+    },
+    "security_and_privacy": {
+      "data_protection": "We handle personal data securely and comply with privacy regulations.",
+      "user_consent": "Obtain user consent for data collection and ensure transparency in data usage."
+    },
+    "about_finkraft": {
+      "description": "Finkraft is a leading technology company specializing in automating complex accounting processes, reducing costs, and ensuring compliance.",
+      "highlights": "$25m in annual savings extracted from unstructured data.",
+      "caseStudyLink": "View case study",
+      "trust": "Trusted by leading global brands",
+      "partners": "Our Partners",
+      "mission": "Automate complex accounting processes and reduce costs",
+      "services": "Finkraft helps enterprises achieve invoice data extraction & validation, and GST input claim compliances at scale.",
+      "issue": "Poor compliance with invoice handling processes are the single largest driver of tax disputes and litigation for Indian enterprises.",
+      "solutions": "Our cutting-edge tech solutions aid finance teams to automate compliance critical processes delivering immediate monetary saving and long-term compliance safeguards.",
+      "marketReach": "15% of India’s largest corporations use Finkraft GST & Recon solutions",
+      "contact_info": {
+        "website": "finkraft.ai",
+        "linkedin": "linkedin.com/company/finkraft",
+        "email": "contact@finkraft.ai",
+        "phone": "Contact via LinkedIn",
+        "address": {
+          "street": "122,1st Floor, Above Ayu Health 17th Main, 19th B Cross Rd, opp. HSR Club, Sector 3, HSR Layout, Bengaluru, Karnataka 560102",
+          "city": "Bangalore",
+          "state": "karnataka",
+          "country": "India"
+        }
+      }
+    },
+    "founders": {
+      "ceo": "Rohit Anand",
+      "co_founders": [
+        "Taruna Anand and Rohit Anand"
+      ],
+      "founding_date": "January 1, 2010"
+    },
+    "current_team": {
+      "total_employees": 46,
+      "departments": {
+        "Data Engineering": 22,
+        "Software Development": 10,
+        "Customer Support": 6,
+        "Management": 8
+      }
+    },
+    "solutions": {
+      "overview": "Finkraft offers a range of solutions for various industries and processes.",
+      "categories": [
+        "Airline & Hotel",
+        "ITC Automation",
+        "GST Invoice",
+        "Distribution",
+        "QR Invoice Automation"
+      ],
+      "benefits": {
+        "maximizeSavings": "Achieve up to 100% eligible Input Tax claims with our automated invoice processing and exception handling suite.",
+        "automatedCompliance": "Automate financial compliances involving AP processes including reconciliations and document verification and validation.",
+        "actionableInsights": "Finkraft's solutions empower finance, procurement, and sales leaders with critical insights required for identifying high-risk vendors and buyers, making timely interventions."
+      }
+    },
+    "compliance": {
+      "overview": "Finkraft ensures compliance with complex financial regulations through advanced technology solutions.",
+      "benefits": [
+        "Automate compliance-critical processes",
+        "Reduce tax disputes and litigation risks",
+        "Ensure long-term compliance safeguards"
+      ]
+    },
+    "resources": {
+      "overview": "Finkraft provides a wealth of resources to help businesses understand and leverage their solutions.",
+      "caseStudies": [
+        "Learn how Finkraft solved travel linked GST Input challenges for the world’s 6th largest IT services firm."
+      ],
+      "partners": [
+        "Leading global brands trust Finkraft"
+      ],
+      "offices": "Finkraft has offices worldwide to support global operations.",
+      "careers": "Explore career opportunities at Finkraft to be part of a dynamic and innovative team."
+    },
+    "contact": {
+      "overview": "Get in touch with Finkraft to learn more about their solutions and services.",
+      "contactOptions": [
+        "Book a Demo",
+        "Speak to our experts",
+        "Arrange a call"
+      ],
+      "cta": "Every enterprise has unique challenges and requirements. Arrange a call to find out how we can help automate your specific accounting processes."
+    },
+    "demo": {
+      "overview": "Schedule a demo to see Finkraft's solutions in action.",
+      "details": [
+        "$25m in annual savings extracted from unstructured data.",
+        "Learn how Finkraft solved travel linked GST Input challenges for the world’s 6th largest IT services firm."
+      ],
+      "cta": "Imagine how much money you are losing. Speak to our experts to find out how we can help automate your accounting processes."
+    }
+  }
+}
